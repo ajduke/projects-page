@@ -1,10 +1,13 @@
-pages
+Overview
 =====
 
-listing the project pages
+This page showcases list of completed projects and currently working projects
 
 
-URL 
+URLs
 =====
-http://ajduke.github.com/projects-page
 http://projects.ajduke.in
+
+http://ajduke.github.com/projects-page
+
+
