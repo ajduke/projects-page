@@ -1,4 +1,4 @@
 pages
 =====
 
-forked repo of gh-pages for trying it out
+listing the project pages
